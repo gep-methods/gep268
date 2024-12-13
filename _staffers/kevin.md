@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
+name: Marshall Burke
+role: Professor
+email: mburke@stanford.edu
+website: https://web.stanford.edu/~mburke/
 photo: kevin.jpg
 meta:
   Office Hours: Somewhere on the internet
