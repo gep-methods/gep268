@@ -17,8 +17,8 @@ title: GEP 268
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://gep-methods.github.io/class_webpage' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/class_webpage' # the subpath of your site, e.g. /blog
+url: 'https://gep-methods.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
