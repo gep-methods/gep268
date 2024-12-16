@@ -16,7 +16,7 @@
 title: GEP268
 tagline: Topics and Methods in Global Environmental Policy
 description: Class webpage for Global Enviromental Policy Methods Classes
-author: 'Iván Higuera-Mendieta'
+author: Iván Higuera-Mendieta
 baseurl: '/gep268' # the subpath of your site, e.g. /blog
 url: 'https://gep-methods.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -26,7 +26,7 @@ favicon:  "/assets/images/favicon.ico"
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 color_scheme: light
 search_enabled: true
-heading_anchors: false
+heading_anchors: true
 permalink: pretty
 aux_links:
 footer_content:   
@@ -76,3 +76,5 @@ liquid:
   error_mode: strict
   strict_filters: true
 
+plugins:
+  - jekyll-seo-tag

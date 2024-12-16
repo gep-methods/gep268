@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Home/Schedule
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: GEP 268
 ---
 
 #  Topics and Methods in Global Environmental Policy I 
@@ -30,9 +30,10 @@ This two-course sequence is a topics and methods sequence focused on the determi
 {% endfor %}
 {% endif %}
 
+# Calendar
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
