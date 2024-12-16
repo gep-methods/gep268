@@ -1,23 +1,28 @@
 ---
-title: Introduction to Java
+title: Spatial Analysis
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 6
+: Introduction to the class: why spatial data? 
+  : [Orientation](#)
 
-Sep 29
+Jan 10
+: **Section**{: .label .label-purple }[Intro to R/Python](#)
+: **HW 1 Due**{: .label .label-red }
+
+
+Jan 13
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
+Jan 20 
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
+Jan 27
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
-Oct 2
+Feb 3
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }

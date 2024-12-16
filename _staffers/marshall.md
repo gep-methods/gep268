@@ -1,9 +1,9 @@
 ---
 name: Marshall Burke
-role: Professor
+role: Instructor
 email: mburke@stanford.edu
 website: https://web.stanford.edu/~mburke/
-photo: kevin.jpg
+photo: Marshall_Burke.jpg
 meta:
   Office Hours: Somewhere on the internet
 ---
