@@ -1,23 +1,25 @@
 ---
-title: Basic Data Structures
+title: Week 2
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Jan 14
+: **Lab 2**{: .label .label-blue } Lab 2 Released
+  : [Google Doc]()
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+: **Lecture Topics**{: .label .label-green }
+ - Point processes
+ - Attributes
+ - Clustering
+ - Density estimation 
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+: **Reading**{: .label .label-yellow } 
+- [Sakaki et al. (*Proc WWW*, 2010) "Earthquake Shakes Twitter Users: Real-time Event Detection by Social Sensors"][1]
+- [Block et al. (*American Journal of Preventive Medicine*, 2004) "Fast Food, Race/Ethnicity, and Income: A Geographic Analysis"][2]
+- [Englander (*Nature Sustainability*, 2019) "Property rights and the protection of global marine resources"][3]
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+: **Section**{: .label .label-purple }[Intro to Python: Tips and tricks](#)
+: **Lab 2 & Data Viz Hunt 1 Due**{: .label .label-red }
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+[1]: https://dl-acm-org.stanford.idm.oclc.org/doi/10.1145/1772690.1772777
+[2]: https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S0749379704001394
+[3]: https://www-nature-com.stanford.idm.oclc.org/articles/s41893-019-0389-9

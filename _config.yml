@@ -17,14 +17,14 @@ title: GEP268
 tagline: Topics and Methods in Global Environmental Policy
 description: Class webpage for Global Enviromental Policy Methods Classes
 author: Iván Higuera-Mendieta
-baseurl: '/gep268' # the subpath of your site, e.g. /blog
-url: 'https://gep-methods.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/class/gep268" # the subpath of your site, e.g. /blog
+url: "https://web.stanford.edu" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 favicon:  "/assets/images/favicon.ico"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
-color_scheme: light
+color_scheme: sdss
 search_enabled: true
 heading_anchors: true
 permalink: pretty
@@ -76,5 +76,31 @@ liquid:
   error_mode: strict
   strict_filters: true
 
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  note-title:
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 plugins:
   - jekyll-seo-tag
+
+# Add footer content
+footer_content: 'Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a> <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
+footer_content: true
+back_to_top: true
+back_to_top_text: "Back to Top"
+last_edit_timestamp: true
+last_edit_time_format: '%Y-%m-%d at %H:%M'

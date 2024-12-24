@@ -4,8 +4,6 @@ role: Instructor
 email: mburke@stanford.edu
 website: https://web.stanford.edu/~mburke/
 photo: Marshall_Burke.jpg
-meta:
-  Office Hours: Somewhere on the internet
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Sign up OH](https://web.stanford.edu/~mburke/officehours.html){:target="_blank" .btn .btn-outline }
