@@ -74,7 +74,7 @@ Once you have established and SSH connection, you can run:
   to `/afs/ir/class/gep268/WWW`. You can check the site's *Page Last Modified*
   at the bottom of the home site to confirm the update
 
-## Some notes
+## S ome notes
 
  - We have a *Page last modified:* prompt at the footer of the main page. This
    is to know if deployments are up to date. Unfortunately, Jekyll doesn't
@@ -96,8 +96,13 @@ Once you have established and SSH connection, you can run:
    require privgroup stanford:academic
    ```
 
+ - Alternatively, you can use OpenAFS and Fetch to push the built website
+ to `WWW`. Just do `make _site` and transfer the contents of the `_site`
+ directory to the class path. More instructions [here][5].
+
 [1]: https://just-the-docs.com/
 [2]: https://just-the-docs.com/
 [3]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [4]: https://uit.stanford.edu/service/web/centralhosting/webauth/unix
+[5]: https://uit.stanford.edu/service/afs/file-transfer/macintosh
 
