@@ -34,9 +34,10 @@ terminal:
 bundle exec jekyll serve --baseurl "" --livereload --incremental
 ```
 
-You can make edits on any of the `.md` documents and the webpage will reload
-to show those. You can check [Just the Docs documentation][2] and a Markdown
-[cheat sheet][3] if you have doubts about modifications. 
+While this command is running, you can make edits on any of the `.md` documents
+and the webpage will reload to show those. You can check [Just the Docs
+documentation][2] and a Markdown [cheat sheet][3] if you have doubts about
+modifications. 
 
 
 ## Build and deploy
@@ -50,6 +51,8 @@ connection. There are two options for this:
  ssh <SUNET ID>@rice.stanford.edu
  ```
 
+ Then leave the connection open and follow the instructions below
+
  2. Modify the `~/.ssh/config` on your local machine and paste this lines:
  ```
  Host rice
@@ -59,7 +62,7 @@ connection. There are two options for this:
  User <SUNET ID>
  ```
 
- Then just do `ssh rice` from your terminal
+ Then just do `ssh rice` from your terminal and leave the instructions below.
 
 Once you have established and SSH connection, you can run: 
 
@@ -67,13 +70,13 @@ Once you have established and SSH connection, you can run:
   make deploy
   ```
 
-  This is using the `Makefile` to clean, build and deploy the webpage directly to
-  `/afs/ir/class/gep268/WWW`. 
-
+  This is using the `Makefile` to clean, build and deploy the webpage directly
+  to `/afs/ir/class/gep268/WWW`. You can check the site's *Page Last Modified*
+  at the bottom of the home site to confirm the update
 
 ## Some notes
 
- - We have a *Page last modified: * prompt at the footer of the main page. This
+ - We have a *Page last modified:* prompt at the footer of the main page. This
    is to know if deployments are up to date. Unfortunately, Jekyll doesn't
    offer an easy way to just do that for us, so we created `./update_date.sh`
    to change the page of the `index.md` file alone and modify the variable in
