@@ -42,10 +42,15 @@ modifications.
 
 ## Build and deploy
 
-To push the changes to the Stanford AFS, you need first to configure your SSH
-connection. There are two options for this: 
+> [!WARNING]
+> Before pushing changes to Stanford AFS, push also the changes to this repo.
+This will help us to keep track of changes and avoid differences in the material
+for different users. 
 
- 1. SSH into `rice.stanford.edu`:
+To push the changes to the Stanford AFS, you need first to configure your SSH
+connection. There are two options to set up your SSH connection: 
+
+ 1. SSH into `rice.stanford.edu` by using:
  
  ```bash
  ssh <SUNET ID>@rice.stanford.edu
@@ -63,11 +68,14 @@ connection. There are two options for this:
  ```
 
  Then just do `ssh rice` from your terminal and leave the instructions below.
+ This is just a way of saving time every time you connect to FarmShare, but 
+ also a way of simplifying using `rsync` as we just have to refer to `rice`
+ rather than use the complete address. 
 
 Once you have established and SSH connection, you can run: 
 
   ```
-  make deploy
+  make
   ```
 
   This is using the `Makefile` to clean, build and deploy the webpage directly
