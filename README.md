@@ -74,7 +74,7 @@ Once you have established and SSH connection, you can run:
   to `/afs/ir/class/gep268/WWW`. You can check the site's *Page Last Modified*
   at the bottom of the home site to confirm the update
 
-## S ome notes
+## Some notes
 
  - We have a *Page last modified:* prompt at the footer of the main page. This
    is to know if deployments are up to date. Unfortunately, Jekyll doesn't
