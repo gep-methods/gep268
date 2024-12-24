@@ -209,7 +209,10 @@ or just navigate with the bar on the left to get to the folder where you have
 stored your problem set notebooks. If you want to create a new notebook, just
 click in the `Python 3 (ipykernel)` icon and a new tab will open with
 a notebook. Notebooks use a markup language called markdown, which is a simple
-text syntax language (learn the basics [here][5] ).
+text syntax language (learn the basics [here][5]). 
+
+To stop the server, you can go back to your terminal and type
+<kbd>Ctrl</kbd>+<kbd>c</kbd>
 
 ### Script mode
 
