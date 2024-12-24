@@ -1,56 +1,100 @@
----
-layout: home
-title: Home/Schedule
-nav_exclude: true
-description: A week-to-week description of the content covered in the course.
-permalink: /:path/
-last_modified_date: "Sun Dec 22 06:47:04 MST 2024"
-seo:
-  type: Course
-  name: GEP 268
----
+# GEP 268 Class webpage
 
-[Ed Stem](https://edstem.org/us/courses/70029/discussion){:target="_blank" .btn .btn-ed}
-[Gradescope](https://www.gradescope.com/courses/929063){:target="_blank" .btn .btn-gradescope}
-[Class calendar](https://outlook.office365.com/owa/calendar/cc55d818b33344ae9125c8fd612aec32@stanford.edu/6dc2de74798b418985749721445e976517622507776261428663/calendar.html){:target="_blank" .btn .btn-calendar}
+This repo has all the code for the GEP268 website for the Winter 2025. We are
+using Just the Class theme, which is based of Just the Docs (check their docs
+[here][1]).
 
-#  Topics and Methods in Global Environmental Policy I
-{: .mb-2 }
-Stanford Doerr School of Sustainability, Winter 2025
-{: .mb-0 .fs-6 .text-grey-dk-000 }
+## Quick start
 
-This two-course sequence is a topics and methods sequence focused on the
-determinants of human well-being over the short and long-run, with a focus on
-the interplay between environmental factors and human development. The skills
-relate to gaining facility with main methods that underlie quantitative
-research in the environmental social sciences, including econometric concepts
-related to causal inference, spatial data, machine learning, and data
-visualization. We expect students to enroll in both quarters of the sequence
+The class website is hosted in the Stanford servers (`rice.stanford.edu`).
+If you have the right permissions, you can access the AFS storage and not only
+edit the contents of the webpage, but also alter the permissions (i.e. who has
+access to the webpage?). To make edits: 
 
+ 1. Clone a local version of this repository: 
+ ```bash
+ git clone git@github.com:gep-methods/gep268.git
+ ```
 
-<div>
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
- <div class="role">
- {% for staffer in instructors %}
- {{ staffer }}
- {% endfor %}
- </div>
-</div>
+ 2. If you haven't already installed [Jekyll][2], then run:
+ ```bash
+ gem install bundler jekyll
+ ```
 
-## Teaching Assistants
+ 3. Run `bundle install`
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
+ 4. Edit the Markdown (`.md`) files to edit the contents.
+
+## Build website locally 
+
+To make edits and explore the rendered edits, you can run this on your
+terminal:
+
+```bash
+bundle exec jekyll serve --baseurl "" --livereload --incremental
+```
+
+You can make edits on any of the `.md` documents and the webpage will reload
+to show those. You can check [Just the Docs documentation][2] and a Markdown
+[cheat sheet][3] if you have doubts about modifications. 
 
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+## Build and deploy
 
-## Schedule
+To push the changes to the Stanford AFS, you need first to configure your SSH
+connection. There are two options for this: 
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+ 1. SSH into `rice.stanford.edu`:
+ 
+ ```bash
+ ssh <SUNET ID>@rice.stanford.edu
+ ```
+
+ 2. Modify the `~/.ssh/config` on your local machine and paste this lines:
+ ```
+ Host rice
+ HostName rice.stanford.edu
+    ControlMaster auto
+    ControlPath ~/.ssh/%l%r@%h:%p
+ User <SUNET ID>
+ ```
+
+ Then just do `ssh rice` from your terminal
+
+Once you have established and SSH connection, you can run: 
+
+  ```
+  make deploy
+  ```
+
+  This is using the `Makefile` to clean, build and deploy the webpage directly to
+  `/afs/ir/class/gep268/WWW`. 
+
+
+## Some notes
+
+ - We have a *Page last modified: * prompt at the footer of the main page. This
+   is to know if deployments are up to date. Unfortunately, Jekyll doesn't
+   offer an easy way to just do that for us, so we created `./update_date.sh`
+   to change the page of the `index.md` file alone and modify the variable in
+   the file frontmatter. The `make _site` takes care of this. 
+
+ - This webpage uses WebAuth to protect this webpage from outside traffic. We
+   want to allow only the Stanford community to have access to the contents of
+   the class. Stanford has a simple permissions system that is configured by
+   modifying the `.htacess` file in our `/afs/ir/class/gep268/WWW` folder. You
+   can see the WebAuth [documentation][4] to open/restrict the access.
+
+   Currently, we use: 
+   ```
+   AuthType WebAuth
+   require privgroup stanford:stanford
+   require privgroup stanford:administrative
+   require privgroup stanford:academic
+   ```
+
+[1]: https://just-the-docs.com/
+[2]: https://just-the-docs.com/
+[3]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[4]: https://uit.stanford.edu/service/web/centralhosting/webauth/unix
+

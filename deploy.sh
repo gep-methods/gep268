@@ -1,4 +1,3 @@
-# https://uit.stanford.edu/service/web/centralhosting/webauth/unix
 #!/bin/sh
 set -e
 JEKYLL_ENV=production bundle exec jekyll build 
