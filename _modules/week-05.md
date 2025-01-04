@@ -9,7 +9,6 @@ Jan 21
 : **Lecture Topics**{: .label .label-green }
  - Vector fields
  - Dynamic fields
- - Point-wise, cross sectional, moving window regression
  - Spatial averaging
  - 3D data
  - PCA
