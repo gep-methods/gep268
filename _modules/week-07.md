@@ -1,4 +1,4 @@
---
+---
 title: Week 7
 ---
 
@@ -10,7 +10,7 @@ Feb 18
  - The weirdness of weights
  - Linearities and non-linearities
  - Regression in space
- - visualizing regression
+ - Visualizing regression
 
 : **Reading**{: .label .label-yellow }
  - [Acemoglu, Daron, Simon Johnson, and James A. Robinson.  (*QJE*, 2002) "Reversal of fortune: Geography and institutions in the making of the modern world income distribution."

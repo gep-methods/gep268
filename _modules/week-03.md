@@ -3,9 +3,6 @@ title: Week 3
 ---
 
 Jan 21
-: **Lab 3**{: .label .label-blue } Lab 3 Released
-  : [Google Doc]()
-
 : **Lecture Topics**{: .label .label-green }
  - Lines, Polygons, Networks
  - Buffers
@@ -16,8 +13,13 @@ Jan 21
  - [Phithakkitnukoon, et.al. (*IEEE Pervasive Computing*, 2012) "Tracking Trash"][2]
  - [Hanna, et.al. (*Science*, 2017) "Citywide effects of high-occupancy vehicle restrictions: Evidence from “three-in-one” in Jakarta"][3]
  - [Taylor & Druckenmiller (*American Economic Review*, 2022) "Wetlands, Flooding, and the Clean Water Act"][4]
+: **Lab 3**{: .label .label-blue } Lab 3 Released
+  : [Google Doc]()
+
+Jan 24
 : **Section**{: .label .label-purple }[Intro to Spatial Data in R/Python](#)
 : **Lab 3 & Data Viz Hunt 2 Due**{: .label .label-red }
+
 
 [1]: https://www.nowpublishers.com/article/Details/QJPS-9022
 [2]: https://dspace.mit.edu/handle/1721.1/101638

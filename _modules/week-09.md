@@ -1,4 +1,4 @@
---
+---
 title: Week 9
 ---
 
@@ -7,9 +7,9 @@ Mar 4
   : [Google Doc]()
 
 : **Lecture Topics**{: .label .label-green }
- - panel econometrics continued
- - instrumental variables
- - visualizing panel data
+ - Panel econometrics continued
+ - Instrumental Variables
+ - Visualizing panel data
 
 : **Reading**{: .label .label-yellow }
  - [Miguel, E., Satyanath, S. and Sergenti, E., 2004. Economic shocks and civil conflict: An instrumental variables approach.
