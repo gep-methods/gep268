@@ -2,8 +2,8 @@
 title: Week 5
 ---
 
-Jan 21
-: **Lab 3**{: .label .label-blue } Lab 5 Released
+Feb 04
+: **Lab 5**{: .label .label-blue } Lab 5 Released
   : [Google Doc]()
 
 : **Lecture Topics**{: .label .label-green }
@@ -13,7 +13,7 @@ Jan 21
  - 3D data
  - PCA
  - Optimizing policies in space
-: **Reading**{: .label .label-yellow } 
+: **Reading**{: .label .label-yellow }
  - [Burchfield, et.al. (*Quarterly Journal of Economics*, 2006) Causes of Sprawl: A Portrait from Space
 ][1]
  - [Rodell, et.al. (*Nature*, 2009) Satellite-based estimates of groundwater depletion in India][2]

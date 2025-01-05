@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Jan 28
-: **Lab 3**{: .label .label-blue } Lab 4 Released
+: **Lab 4**{: .label .label-blue } Lab 4 Released
   : [Google Doc]()
 
 : **Lecture Topics**{: .label .label-green }
