@@ -31,7 +31,7 @@ learning concepts relevant to modern social science research, how physical
 science models are integrated to social science research, data wrangling
 skills, data visualization, and the design and assembly of a research paper.
 Each of the two courses in the sequence is divided into two modules of five
-classes focusing on specific topics (see diagram). 
+classes focusing on specific topics (see diagram).
 
 ![](/assets/images/gep_classes_structure.png)
 
@@ -43,7 +43,7 @@ environmental contexts, usually where spatial relationships play a central role
 – the goal of this module is to learn to think scientifically about naturally
 occurring variation in data.  Because these modules focus on core fundamentals,
 there is a final exam at the end of the quarter to help students review and
-solidify their mastery of the material. 
+solidify their mastery of the material.
 
 The spring quarter (GEP 374) focuses on advanced topics that build directly on
 tools and concepts developed in the winter quarter. The third module in the
@@ -53,7 +53,7 @@ use of physical models and remote sensing tools to build data sets to
 understanding the challenges of existing data collection systems. The fourth
 module focuses on a variety of advanced topics in inference, ranging from
 integrated assessment models and meta-analysis to the use of machine learning
-for causal inference. 
+for causal inference.
 
 Overlaid on this topical agenda are assignments and material that will develop
 two other skill sets within students across the two-course sequence. First,
@@ -94,7 +94,7 @@ The goal will then be to deploy these methods in a quarter long empirical projec
 where at the end you will have produced the building blocks of -- and gotten repeated
 feedback on -- an empirical paper. These building blocks include an abstract,
 a brief introduction, a methods section, and a set of figures that describe your
-main results. 
+main results.
 
 ## Structure of the class
 
@@ -170,7 +170,20 @@ having fluency in both is core to being a capable researcher in these areas.
 Both have advantages and disadvantages, and we want to equip you to be able to
 take advantage of both languages.
 
-### Use of Large Language Models
+## Class policies
+
+#### Eating in class
+Of course!
+
+#### Laptops
+Randomized trials have repeatedly shown that laptop use during class is
+damaging to learning, both for the user and for nearby classmates. Therefore: laptop use is not
+allowed during lecture unless we are doing a live-coding exercise that requires
+laptop use. So, please bring a laptop to class but expect to mostly not use it.
+Tablets are ok for taking notes, so long as you don't have any other apps open. The goal
+is to save ourselves from our worst digital habits. 
+
+#### Use of Large Language Models
 We encourage use of LLMs as a learning aid. They are incredibly powerful in
 this regard and should be part of all of our coding and learning workflow.
 However, if you succeed in getting LLMs to do your homework for you, but do not
