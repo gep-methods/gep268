@@ -2,9 +2,13 @@
 title: Week 6
 ---
 
+Feb 10
+: **Lab 6 due**{: .label .label-red } (submit before 11:59 PM)
+
+
 Feb 11
-: **Lab 6**{: .label .label-blue } Lab 6 Released
-  : [Google Doc]()
+
+: **Data Viz 5 Due**{: .label .label-red } (submit before class)
 
 : **Lecture Topics**{: .label .label-green }
  - Making causal claims
@@ -15,8 +19,11 @@ Feb 11
  - [Sala-I-Martin, X (*American Economic Review*, 1997) "I just ran two million regressions".
 ][1]
 
+: **Lab 6**{: .label .label-blue } Lab 6 Released
+  : [Google Doc]()
 
+
+Feb 14
 : **Section**{: .label .label-purple }[Intro to R](#)
-: **Lab 6 & Data Viz 5 Due**{: .label .label-red }
 
 [1]: https://www.jstor.org/stable/2950909?seq=1

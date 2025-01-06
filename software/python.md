@@ -19,7 +19,6 @@ Jump to:
 
 ---
 
-
 ## Setting up Python on your machine
 
 Python is [one of the most common languages][1] for software development. Is
@@ -53,7 +52,7 @@ your machine. If this is the first time you interact with the terminal on your
 machine, then you need to install these. To install them, open your terminal
 and execute this command: `xcode-select --install` (just copy and paste it).
 
- 1. Open your terminal (please review the [resources here](resources.md) if you
+ 1. Open your terminal (please review the [resources here](../resources.md) if you
     are not sure about how to operate in the terminal) 
  2. MacOS does not come with a package manager to install libraries by default.
     There are many alternative, but we are sticking the simplest

@@ -2,9 +2,11 @@
 title: Week 8
 ---
 
+Feb 24
+: **Lab 8 Due**{: .label .label-red } (submit before 11:59 PM)
+
 Feb 25
-: **Lab 8**{: .label .label-blue } Lab 8 Released
-  : [Google Doc]()
+: **Data Viz 7 Due**{: .label .label-red } (submit before class)
 
 : **Lecture Topics**{: .label .label-green }
  - Space and time: basics of panel econometrics
@@ -14,8 +16,10 @@ Feb 25
 Evidence from Annual Fluctuations in Weather in the US”. *American Economic Journal-
 Applied Economics*][1]
 
+: **Lab 8**{: .label .label-blue } Lab 8 Released
+  : [Google Doc]()
 
+Feb 28
 : **Section**{: .label .label-purple }[TBD](#)
-: **Lab 8 & Data Viz 7 Due**{: .label .label-red }
 
 [1]: https://www.aeaweb.org/articles?id=10.1257/app.3.4.152

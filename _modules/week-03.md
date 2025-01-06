@@ -2,13 +2,20 @@
 title: Week 3
 ---
 
+Jan 20
+: **Lab 3 Due**{: .label .label-red } (submit before 11:59 PM)
+ 
+
 Jan 21
+: **Data Viz Hunt 2 Due**{: .label .label-red } (submit before class)
+
 : **Lecture Topics**{: .label .label-green }
  - Lines, Polygons, Networks
  - Buffers
  - Boolean logic
  - Centroids and weighting
-: **Reading**{: .label .label-yellow } 
+: **Reading**{: .label .label-yellow }
+*Pick one of the following:*
  - [Chambers, et.al. (*Quarterly Journal of Political Science*, 2010) "A Measure of Bizarreness"][1]
  - [Phithakkitnukoon, et.al. (*IEEE Pervasive Computing*, 2012) "Tracking Trash"][2]
  - [Hanna, et.al. (*Science*, 2017) "Citywide effects of high-occupancy vehicle restrictions: Evidence from “three-in-one” in Jakarta"][3]
@@ -18,7 +25,6 @@ Jan 21
 
 Jan 24
 : **Section**{: .label .label-purple }[Intro to Spatial Data in R/Python](#)
-: **Lab 3 & Data Viz Hunt 2 Due**{: .label .label-red }
 
 
 [1]: https://www.nowpublishers.com/article/Details/QJPS-9022

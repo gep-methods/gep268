@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class FAQ
-nav_order: 5
+nav_order: 6
 description: >-
  Common questions about the class
 ---

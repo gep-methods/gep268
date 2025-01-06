@@ -20,22 +20,60 @@ description: >-
 
 ## About
 
-This is both a topics and skills course.  The topics relate to determinants of
-human well-being over the short and long-run, with a focus on the role of
-environmental factors in shaping development outcomes.  The skills relate to
-gaining facility with main methods that underlie quantitative research in the
-environmental social sciences, including econometric concepts related to causal
-inference, data wrangling skills, and data visualization.  Assignments and
-class time will also be aimed at practicing critical components of the research
-pipeline that are often not taught, including how to come up with a good
-research question, how to effectively frame your research findings, and how to
-make more compelling visualizations of your results.  Students will get the
-most out of the course if they arrive with a working knowledge of R (or
-comparable programming environment) and some previous exposure to econometric
-methods or upper-level statistics related to causal inference.
+This course is part of a two-course sequence designed to bring students up to
+the frontier on both topics and skills. The topics in the sequence relate to
+determinants of human well-being over the short and long-run, with a focus on
+the role of environmental factors in shaping development outcomes. The skills
+relate to gaining facility with main types of data and methods that underlie
+quantitative research in the environmental social sciences, including spatial
+data analysis, econometric concepts related to causal inference, machine
+learning concepts relevant to modern social science research, how physical
+science models are integrated to social science research, data wrangling
+skills, data visualization, and the design and assembly of a research paper.
+Each of the two courses in the sequence is divided into two modules of five
+classes focusing on specific topics (see diagram). 
 
+![](/assets/images/gep_classes_structure.png)
 
-The course has the following learning goals:
+In the winter quarter (GEP 268), the first module focuses on the fundamental
+elements of spatial data and how they are analysed – the goal of this module is
+to learn how to “think spatially” about a variety of analytical problems. The
+second module focuses on causal inference in a variety of policy and
+environmental contexts, usually where spatial relationships play a central role
+– the goal of this module is to learn to think scientifically about naturally
+occurring variation in data.  Because these modules focus on core fundamentals,
+there is a final exam at the end of the quarter to help students review and
+solidify their mastery of the material. 
+
+The spring quarter (GEP 374) focuses on advanced topics that build directly on
+tools and concepts developed in the winter quarter. The third module in the
+sequence (the first five weeks of the spring quarter) focuses on a variety of
+measurement challenges and tools used in frontier research, ranging from the
+use of physical models and remote sensing tools to build data sets to
+understanding the challenges of existing data collection systems. The fourth
+module focuses on a variety of advanced topics in inference, ranging from
+integrated assessment models and meta-analysis to the use of machine learning
+for causal inference. 
+
+Overlaid on this topical agenda are assignments and material that will develop
+two other skill sets within students across the two-course sequence. First,
+students will learn to code in two widely-used modern languages used in
+research: R and Python. Second, students will learn to develop the components
+and structure of a research paper. We will not have the space to focus in depth
+on writing the text of a research paper, but students will learn how to develop
+data visualizations, effective presentations of analysis, and the design of
+a paper’s architecture. Assignments and class time will also be aimed at
+practicing critical components of the research pipeline that are often not
+taught, including how to come up with a good research question, how to
+effectively frame your research findings, and how to make more compelling
+presentations of your results. Students will get the most out of the course if
+they arrive with a working programming knowledge (preferably either R or
+Python, or a comparable programming environment) and some previous exposure to
+econometric methods or upper-level statistics related to causal inference. This
+sequence is designed to complement and build on core classes on statistics and
+causal inference, it is not a substitute for these courses.
+
+The winter course (GEP 268) has the following specific learning goals:
  - Facility with many of the main methods that underlie quantitative work in
    the environmental social sciences, including:
     - core concepts in the description and analysis of spatial data
@@ -57,6 +95,16 @@ where at the end you will have produced the building blocks of -- and gotten rep
 feedback on -- an empirical paper. These building blocks include an abstract,
 a brief introduction, a methods section, and a set of figures that describe your
 main results. 
+
+## Structure of the class
+
+ 1. Each week (Tuesday), there is a 3 hour mandatory class taught by faculty.
+  - In these classes, the first 90 minutes of class will be “structured” presentation of material.
+  - There will be a 10 minute break.
+  - The last 80 minutes will be a mix of material and class discussion, pending module and instructor. Class discussion will focus on readings, which students should be prepared to discuss.
+ 2. At the end of class, assignments will be released. These assignments are due the following week at midnight before the next class.
+ 3. Each week (Friday: 8 - 10 AM) there is an optional section taught by the TA designed to support students and supplement the lecture.
+ 4. There will be a final exam during finals week.
 
 ## Assignments and grading
 There are three things to complete each week: a "lab" (coding assignment)
