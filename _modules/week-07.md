@@ -4,11 +4,9 @@ title: Week 7
 
 Feb 17
 : **Lab 7 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Data Viz 6 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Feb 18
-
-: **Data Viz 6 Due**{: .label .label-red } (submit before class)
-
 : **Lecture Topics**{: .label .label-green }
  - The weirdness of weights
  - Linearities and non-linearities

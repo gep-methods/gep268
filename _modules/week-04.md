@@ -4,10 +4,9 @@ title: Week 4
 
 Jan 27
 : **Lab 4 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Data Viz Hunt 3 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Jan 28
-: **Data Viz Hunt 3 Due**{: .label .label-red } (submit before class)
-
 : **Lecture Topics**{: .label .label-green }
  - Fields
  - Rasters and grids

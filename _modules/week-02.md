@@ -4,10 +4,9 @@ title: Week 2
 
 Jan 13
 : **Lab 1 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Data Viz Hunt 1 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Jan 14
-
-: **Data Viz Hunt 1 Due**{: .label .label-red } (submit before class)
 
 : **Lecture Topics**{: .label .label-green }
  - Point processes

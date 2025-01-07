@@ -4,12 +4,10 @@ title: Week 6
 
 Feb 10
 : **Lab 6 due**{: .label .label-red } (submit before 11:59 PM)
+: **Data Viz 5 Due**{: .label .label-red } (submit before 11:59 PM)
 
 
 Feb 11
-
-: **Data Viz 5 Due**{: .label .label-red } (submit before class)
-
 : **Lecture Topics**{: .label .label-green }
  - Making causal claims
  - Regression basics

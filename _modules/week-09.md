@@ -4,11 +4,9 @@ title: Week 9
 
 Mar 3
 : **Lab 10 Due**{: .label .label-red } (submit before 11:59 PM)
-
+: **Data Viz 9 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Mar 4
-: **Data Viz 9 Due**{: .label .label-red } (submit before class)
-
 : **Lecture Topics**{: .label .label-green }
  - Panel econometrics continued
  - Instrumental Variables

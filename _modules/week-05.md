@@ -4,9 +4,9 @@ title: Week 5
 
 Feb 03
 : **Lab 5 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Data Viz Hunt 4 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Feb 04
-: **Data Viz Hunt 4 Due**{: .label .label-red } (submit before class)
 
 : **Lecture Topics**{: .label .label-green }
  - Vector fields

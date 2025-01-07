@@ -4,11 +4,10 @@ title: Week 3
 
 Jan 20
 : **Lab 3 Due**{: .label .label-red } (submit before 11:59 PM)
- 
+ : **Data Viz Hunt 2 Due**{: .label .label-red } (submit before 11:59 PM)
+
 
 Jan 21
-: **Data Viz Hunt 2 Due**{: .label .label-red } (submit before class)
-
 : **Lecture Topics**{: .label .label-green }
  - Lines, Polygons, Networks
  - Buffers

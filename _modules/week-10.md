@@ -5,9 +5,9 @@ title: Week 10
 
 Mar 10
 : **Lab 10 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Lab 10 & Data Viz 9 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Mar 11
-: **Lab 10 & Data Viz 9 Due**{: .label .label-red } (submit before class)
 
 : **Lecture Topics**{: .label .label-green }
  - Applications of ML in tabular and spatial data
