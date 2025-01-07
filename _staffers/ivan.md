@@ -2,6 +2,7 @@
 name: Iván Higuera-Mendieta
 role: Teaching Assistant
 email: ihigueme@stanford.edu
+website: https://ivanhigueram.com
 photo: avatar4.jpg
 pronouns: He/Him/His
 meta:

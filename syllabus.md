@@ -165,7 +165,7 @@ assigned reading, or a choice of one reading from a small set.
 
 ## Software and Computation
 The course will use the two programming environments at the core of modern data
-science, statistics, and spatial data: python and R.  We are using both because
+science, statistics, and spatial data: Python and R.  We are using both because
 having fluency in both is core to being a capable researcher in these areas.
 Both have advantages and disadvantages, and we want to equip you to be able to
 take advantage of both languages.
