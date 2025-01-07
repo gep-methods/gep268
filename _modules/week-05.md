@@ -24,7 +24,6 @@ Feb 04
 ][3]
 
 : **Lab 5**{: .label .label-blue } Lab 5 Released
-  : [Google Doc]()
 
 Feb 05
 : **Section**{: .label .label-purple }[Simulating Data Generation Processes in R/Python](#)

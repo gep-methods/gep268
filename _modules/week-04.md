@@ -24,7 +24,6 @@ Jan 28
  - [Hsiang & Sobel (*Scientific Reports*, 2016) "Potentially Extreme Population Displacement and Concentration in the Tropics Under Non-Extreme Warming"][3]
 
 : **Lab 4**{: .label .label-blue } Lab 4 Released
-  : [Google Doc]()
 
 
 Jan 31

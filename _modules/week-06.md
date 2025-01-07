@@ -18,7 +18,6 @@ Feb 11
 ][1]
 
 : **Lab 6**{: .label .label-blue } Lab 6 Released
-  : [Google Doc]()
 
 
 Feb 14

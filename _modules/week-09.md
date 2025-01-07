@@ -17,7 +17,6 @@ Mar 4
  *Journal of political Economy*, 112(4), pp.725-753.][1]
 
 : **Lab 10**{: .label .label-blue } Lab 9 Released
-  : [Google Doc]()
 
 Mar 7
 : **Section**{: .label .label-purple }[TBD](#)

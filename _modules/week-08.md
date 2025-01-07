@@ -17,7 +17,6 @@ Evidence from Annual Fluctuations in Weather in the US”. *American Economic Jo
 Applied Economics*][1]
 
 : **Lab 8**{: .label .label-blue } Lab 8 Released
-  : [Google Doc]()
 
 Feb 28
 : **Section**{: .label .label-purple }[TBD](#)

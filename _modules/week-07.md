@@ -18,7 +18,6 @@ Feb 18
 ][1]
 
 : **Lab 7**{: .label .label-blue } Lab 7 Released
-  : [Google Doc]()
 
 Feb 21:
 : **Section**{: .label .label-purple }[TBD](#)

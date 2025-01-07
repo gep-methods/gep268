@@ -17,7 +17,6 @@ Mar 11
  - [Hino, M., Benami, E. and Brooks, N., 2018. Machine learning for environmental monitoring. *Nature Sustainability*, 1(10), pp.583-588.][1]
 
 : **Lab 10**{: .label .label-blue } Lab 9 Released
-  : [Google Doc]()
 
 Mar 14
 : **Section**{: .label .label-purple }[TBD](#)

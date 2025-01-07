@@ -20,7 +20,6 @@ Jan 21
  - [Hanna, et.al. (*Science*, 2017) "Citywide effects of high-occupancy vehicle restrictions: Evidence from “three-in-one” in Jakarta"][3]
  - [Taylor & Druckenmiller (*American Economic Review*, 2022) "Wetlands, Flooding, and the Clean Water Act"][4]
 : **Lab 3**{: .label .label-blue } Lab 3 Released
-  : [Google Doc]()
 
 Jan 24
 : **Section**{: .label .label-purple }[Intro to Spatial Data in R/Python](#)
