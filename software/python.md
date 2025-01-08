@@ -44,7 +44,7 @@ versions (`<= 3.9`) and the bleeding edge (`3.13`).
 In this guide we're going to rely on [Micromamba][2] to manage different
 version of Python and more importantly to manage virtual environments
 
-#### MacOS 
+### MacOS 
 
 {: .warning}
 Before continuing, make sure you have installed MacOS command-line tools on
@@ -125,14 +125,21 @@ and execute this command: `xcode-select --install` (just copy and paste it).
     create a new environment and install any library on it, then it won't be
     available in other environments. Thus, always remember to activate your
     environment. 
+    
+    You can start installing some basic data science related pacakges after
+    activating your environemnt:
+    
+    ```python
+    mamba install --yes  numpy pandas matplotlib
+    ```
 
-#### Windows
+### Windows
 
 Sadly, we cannot provide much support for Windows as we do not have Windows
 machines available to us. Please come to Office Hours to discuss how to set
 up an environment using Windows Powershell.
 
-#### Linux
+### Linux
 
 You don't need this guide, soldier 🐧 
  

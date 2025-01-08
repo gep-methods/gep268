@@ -25,18 +25,21 @@ The starter code for each assignment will be shared after class each Tuesday. Yo
 
 
 {: .warning}
-
+Each lab code has some scripts that can help you consolidate your answers to upload them to Gradescope. These are usually called `makepdf.py`, `collect_submission.ipynb`, and `prepare_submission.sh`, and they're not part of the assignment, but just there to help you to create two submission files. Please do not modify them and read the instructions here posted to know how and when to use them. 
 
 ### Run notebook locally 💻
 
 1. Download and unzip the `.zip` file and modify the contents. Make sure the
    notebooks (`.ipynb`) and the `data` folder are all uncompressed.
 
-2. Work on your problem set  💪⚙️⚡💯. Notice that if you're working locally you
+2. Follow the instructions in [here](./software/python.md) to set up Python on
+   your machine and create an environment. 
+
+3. Work on your problem set  💪⚙️⚡💯. Notice that if you're working locally you
    don't need to mount your Google Drive as all data will be stored on your
    machine, feel free to ignore or delete these cells if needed. 
 
-3. Once you're done with all the lab's problems, you can go to your
+4. Once you're done with all the lab's problems, you can go to your
    terminal and run: 
 
 {: .note } 

@@ -146,7 +146,7 @@ Here's how we will do it:
 ### Late day policy
 
 To accommodate unforeseen challenges that may arise during the quarter, you
-have three late days for the problem sets. Each late day allows you to turn in
+have *five* late days for the problem sets. Each late day allows you to turn in
 an assignment up to 24 hours late. (Any fraction of a late day counts as one
 late day.) You may use multiple late days on the same problem set. Work
 submitted beyond the allowed late days will not receive credit.
