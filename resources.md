@@ -35,20 +35,20 @@ We will have a running document during class sharing some of the basic concepts 
  - Hernan & Robins - [Causal Inference: What If](https://miguelhernan.org/whatifbook) 
  - Imbens & Rubin - [Causal inference for statistics, social, and biomedical sciences : an introduction](https://searchworks.stanford.edu/view/10968472)
 
- ## Coding resources
+## Coding resources
 
-### Linux Terminal and HPC:
+### Linux Terminal and HPC
  - [MIT's The Missing Semester][4] ✨ Please read this one ✨
  - [Stanford's Intro to HPC][7]
  - [Julia Evans' comics about tools and programming][5] ❤️
 
-### Python:
+### Python
  - [Python for Data Science][1]
  - [Learn Pandas][2]
  - [Spatial Analysis in Python][3]
  - [Stanford CS106A Python Guide][6]
 
-### R:
+### R
  - [R for Data Science][8] ✨ Please read this one ✨
  - [UBC's STAT545][9]
  - [Hadley Wickham][10] 
