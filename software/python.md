@@ -222,7 +222,11 @@ To stop the server, you can go back to your terminal and type
 
 ### Script mode
 
-Sometimes running notebooks or doing things interactively is not desired. Often we want to run the code and wait for it to execute completely while we do life. Also, if we want to create reproducible pipelines we want to create a main script that runs all our data process from ingestion, processing, and modeling without human interaction. Script mode is very easy! 
+Sometimes running notebooks or doing things interactively is not desired. Often
+we want to run the code and wait for it to execute completely while we do life.
+Also, if we want to create reproducible pipelines we want to create a main
+script that runs all our data process from ingestion, processing, and modeling
+without human interaction. Script mode is very easy! 
 
 Say we have a file that will print a basic string called `hello.py`:
 
@@ -243,7 +247,7 @@ hello world!
 
 You now know how to open a notebook and are ready to do your first lab, which
 will introduce the basics of Python and will set you up for success. Please
-also check the [resources](resources.md) to learn more about Python, we have an
+also check the [resources](../resources.md) to learn more about Python, we have an
 extensive list of places to start if you're starting your 🐍 journey. 
  
 

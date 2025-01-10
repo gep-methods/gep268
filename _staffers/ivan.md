@@ -6,7 +6,7 @@ website: https://ivanhigueram.com
 photo: avatar4.jpg
 pronouns: He/Him/His
 meta:
-  Office Hours: Fri 8 AM - 10 AM 
+  Office Hours: Fri 10:00 - 11:00 AM 
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](mailto:ihigueme@stanford.edu?subject=[GEP 268] Additional Office Hours){: .btn .btn-outline }
