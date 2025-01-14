@@ -3,7 +3,7 @@ title: Week 8
 ---
 
 Feb 24
-: **Lab 8 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Lab 7 Due**{: .label .label-red } (submit before 11:59 PM)
 : **Data Viz 7 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Feb 25

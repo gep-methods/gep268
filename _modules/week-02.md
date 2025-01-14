@@ -21,7 +21,7 @@ Jan 14
 - [Englander (*Nature Sustainability*, 2019) "Property rights and the protection of global marine resources"][3]
 
 : **Lab 2**{: .label .label-blue } Lab 2 Released
-: [[Lab Materials]][4]
+  : [[Lab Materials]][4]
 
 
 Jan 17

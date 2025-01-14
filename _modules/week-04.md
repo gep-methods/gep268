@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Jan 27
-: **Lab 4 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Lab 3 Due**{: .label .label-red } (submit before 11:59 PM)
 : **Data Viz Hunt 3 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Jan 28

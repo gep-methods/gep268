@@ -3,8 +3,8 @@ title: Week 9
 ---
 
 Mar 3
-: **Lab 10 Due**{: .label .label-red } (submit before 11:59 PM)
-: **Data Viz 9 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Lab 8 Due**{: .label .label-red } (submit before 11:59 PM)
+: **Data Viz 8 Due**{: .label .label-red } (submit before 11:59 PM)
 
 Mar 4
 : **Lecture Topics**{: .label .label-green }
