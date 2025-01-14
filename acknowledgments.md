@@ -17,9 +17,12 @@ Contributors (in alphabetical order):
 
 Ian Bollinger, 
 Tamma Carleton, 
-Luna Huang, 
+Shubham Goel,
+Felipe González,
+Luna Yue Huang,
+Jonathan Kadish,
+Jaecheol Lee,
 Simon Greenhill, 
 Hikari Murayama,
 and Jon Proctor
-
 
