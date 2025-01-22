@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Jan 7
-: **Lecture Topics**{: .label .label-green } [Introduction][1]
+: **Lecture Topics**{: .label .label-green } [Class Notes][1]
    - Notation
    - Coordinate systems
      - Latitude and Longitude on a sphere
