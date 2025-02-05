@@ -4,7 +4,7 @@ title: Home/Schedule
 nav_exclude: true
 description: A week-to-week description of the content covered in the course.
 permalink: /:path/
-last_modified_date: "Tue Jan 21 21:27:47 PST 2025"
+last_modified_date: "Fri Jan 31 12:47:21 EST 2025"
 seo:
   type: Course
   name: GEP 268
