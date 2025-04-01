@@ -17,10 +17,10 @@ title: GEP268
 tagline: Topics and Methods in Global Environmental Policy
 description: Class webpage for Global Enviromental Policy Methods Classes
 author: Iván Higuera-Mendieta
-baseurl: "gep268"
-url: "https://gep-methods.github.io"
-#baseurl: "/class/gep268" # the subpath of your site, e.g. /blog
-#url: "https://web.stanford.edu" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "gep268"
+#url: "https://gep-methods.github.io"
+baseurl: "/class/gep268" # the subpath of your site, e.g. /blog
+url: "https://web.stanford.edu" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 favicon:  "/assets/images/favicon.ico"
 repository: "gep-methods/gep268"

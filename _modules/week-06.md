@@ -8,7 +8,7 @@ Feb 10
 
 
 Feb 11
-: **Lecture Topics**{: .label .label-green }
+: **Lecture Topics**{: .label .label-green } [Class Notes][2]
  - Making causal claims
  - Regression basics
  - Simple simulation
@@ -18,9 +18,14 @@ Feb 11
 ][1]
 
 : **Lab 6**{: .label .label-blue } Lab 6 Released
-
+  : [[Lab]][4] [[Lab Materials]][3]
 
 Feb 14
-: **Section**{: .label .label-purple }[Intro to R](#)
+: **Section**{: .label .label-purple }[Make simulations go brrrr in R][5]
 
 [1]: https://www.jstor.org/stable/2950909?seq=1
+[2]: https://web.stanford.edu/class/gep268/lecture_notes/gep268_lecture_6.pdf
+[3]: https://web.stanford.edu/class/gep268/published/lab_06/lab_6.zip
+[4]: https://web.stanford.edu/class/gep268/published/lab_06/lab_6.html
+[5]: https://web.stanford.edu/class/gep268/sections/week_05.html
+

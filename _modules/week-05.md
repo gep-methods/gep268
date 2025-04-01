@@ -33,5 +33,5 @@ Feb 05
 [2]: https://www-nature-com.stanford.idm.oclc.org/articles/nature08238
 [3]: https://www-science-org.stanford.idm.oclc.org/doi/10.1126/science.1065973
 [4]: https://web.stanford.edu/class/gep268/published/lab_05/lab_05.zip
-[5]:  https://web.stanford.edu/class/gep268/lecture_notes/gep268_lecture_6.pdf
+[5]: https://web.stanford.edu/class/gep268/lecture_notes/lecture_notes_5_update.pdf
 

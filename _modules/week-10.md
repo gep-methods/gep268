@@ -9,16 +9,20 @@ Mar 10
 
 Mar 11
 
-: **Lecture Topics**{: .label .label-green }
- - Applications of ML in tabular and spatial data
- - Wrap-up
+: **Lecture Topics**{: .label .label-green } [Class Notes][2]
+ - Non-linearities in panel data
+ - Instrumental Variables
+ - Project preparation for next quarter
+ - Wrap up
 
 : **Reading**{: .label .label-yellow }
- - [Hino, M., Benami, E. and Brooks, N., 2018. Machine learning for environmental monitoring. *Nature Sustainability*, 1(10), pp.583-588.][1]
-
-: **Lab 10**{: .label .label-blue } Lab 9 Released
+  - [Miguel, E., Satyanath, S. and Sergenti, E., 2004. Economic shocks and civil conflict: An instrumental variables approach.
+ *Journal of political Economy*, 112(4), pp.725-753.][1]
 
 Mar 14
-: **Section**{: .label .label-purple }[TBD](#)
+: **Section**{: .label .label-purple }[Final overview][3]
 
-[1]: https://www.nature.com/articles/s41893-018-0142-9
+[1]: https://www-jstor-org.stanford.idm.oclc.org/stable/10.1086/421174?
+[2]: https://web.stanford.edu/class/gep268/lecture_notes/gep268_lecture_10.pdf
+[3]: https://web.stanford.edu/class/gep268/sections/final_overview/final_overview.html
+
